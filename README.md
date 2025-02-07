@@ -13,7 +13,9 @@ Developed by th using Fast.
 💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)
 <br>
 **Telegram:** [here](https://t.me/techhamara91)<br>
-**Find** more Extension [here](https://github.com/TechHamara/Th_Free_Extensions)<br><br>
+**Find** more Extension [here](https://github.com/TechHamara/Th_Free_Extensions)<br>
+**Apps On PlayStore:** [here](https://play.google.com/store/apps/dev?id=6332469651067611923)
+<br><br>
 
 ## <kbd>Events:</kbd>
 **PatternConnect** has total 7 events.
