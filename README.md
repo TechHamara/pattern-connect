@@ -180,6 +180,21 @@ Get the current width of pattern lines
 
 ![pattern demo blocks](https://github.com/user-attachments/assets/5f842b4e-c4ed-44d4-a881-7014f412a45f)
 
+<br>
+### Demo
+<br>
+
+![photo_2025-02-07_20-59-37](https://github.com/user-attachments/assets/2ff99f71-509d-4e2c-942b-b5547d238887)
+
+![photo_2025-02-07_20-59-21](https://github.com/user-attachments/assets/38e01963-f92a-453f-aea7-d8e0e2dcf68f)
+
+![photo_2025-02-07_21-00-00](https://github.com/user-attachments/assets/66bcac6d-4397-4e02-8c30-6412403aa38e)
+
+
+https://github.com/user-attachments/assets/ea0a9244-e24a-4aeb-98d7-0d19810b413d
+
+
+<br>
 ### Thanks and Regards
     TechHamara
     https://t.me/techhamara91
