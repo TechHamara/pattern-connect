@@ -6,17 +6,19 @@ Developed by th using Fast.
 
 ## 📝 Specifications
 * **
-💾 **Size:** 33.50 KB
-⚙️ **Version:** 1.0
-📱 **Minimum API Level:** 7
-📅 **Updated On:** [date=2025-02-07 timezone="Asia/Calcutta"]
+💾 **Size:** 33.50 KB<br>
+⚙️ **Version:** 1.0<br>
+📱 **Minimum API Level:** 7<br>
+📅 **Updated On:** [date=2025-02-07 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)
+<br>
+**Telegram:** [here](https://t.me/techhamara91)<br>
+**Find** more Extension [here](https://github.com/TechHamara/Th_Free_Extensions)<br><br>
 
 ## <kbd>Events:</kbd>
 **PatternConnect** has total 7 events.
 <br><br>
 ![ErrorBlock](https://github.com/user-attachments/assets/75c6304f-8f25-4677-bf26-6db3e986dc6b)
-
 ### 💛 Error
 Error occurred
 
@@ -34,8 +36,6 @@ Pattern was entered by the user
 | pattern | text
 
 ![PatternAbandonedBlock](https://github.com/user-attachments/assets/f3a839fe-302c-49fc-a19c-910d858a1b90)
-
-
 ### 💛 PatternAbandoned
 Pattern input was abandoned
 
@@ -58,10 +58,10 @@ Animation to hide pattern view has started
 
 ### 💛 AnimateOutCompleted
 Animation to hide pattern view has completed
-
+<br><br>
 ## <kbd>Methods:</kbd>
 **PatternConnect** has total 6 methods.
-
+<br>
 ![InitializeBlock](https://github.com/user-attachments/assets/85472472-38aa-4fe9-86e7-c757cfdd3599)
 
 ### 💜 Initialize
@@ -95,12 +95,11 @@ Get current pattern as string
 
 ### 💜 ResetToDefaults
 Reset to default settings
-
+<br><br>
 ## <kbd>Setters:</kbd>
 **PatternConnect** has total 7 setter properties.
-
+<br>
 ![BackgroundColorBlock](https://github.com/user-attachments/assets/546a96ff-d819-4e33-b060-ffa21bce2c28)
-
 ### 💚 BackgroundColor
 Set background color of the pattern view
 
@@ -175,4 +174,11 @@ Get the current width of pattern lines
 
 * Return type: `number`
 
+### Demo Blocks
+
+![pattern demo blocks](https://github.com/user-attachments/assets/5f842b4e-c4ed-44d4-a881-7014f412a45f)
+
+### Thanks and Regards
+    TechHamara
+    https://t.me/techhamara91
 
